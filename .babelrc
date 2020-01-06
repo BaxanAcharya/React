@@ -1,0 +1,9 @@
+
+//npm install --save @babel/plugin-transform-arrow-functions
+//plugins arro transform plugin
+//presets//all code
+//npm install --save @babel/preset-env
+
+{
+	presets:['@babel/preset-env']
+}
